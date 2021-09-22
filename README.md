@@ -1,6 +1,6 @@
 # Tugas Chapter 5 - Agry Bird
 
-<h3>File Build StandAlone ada di <a href = "https://github.com/NaufalAmajid/Angry Bird/releases/tag/v1.0">Release</a> --> Angry_Bird.zip </h3>
+<h3>File Build StandAlone ada di <a href = "https://github.com/NaufalAmajid/Angry_Bird/releases/tag/v1.0">Release</a> --> Angry_Bird.zip </h3>
 
 # <p>
 Buatlah game angry birds sesuai dengan apa yang tertulis di materi 
